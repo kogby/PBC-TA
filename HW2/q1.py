@@ -1,7 +1,7 @@
 red = int(input())
 white = int(input())
 yellow = int(input())
-criteria_1 =int(input())
+criteria_1 = int(input())
 criteria_2 = int(input())
 criteria_3 = int(input())
 
