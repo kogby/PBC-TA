@@ -1,5 +1,3 @@
-import copy
-
 work_num = int(input())
 work_hour = str(input())
 work_ddl = str(input())
